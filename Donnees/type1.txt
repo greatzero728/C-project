@@ -1,0 +1,15 @@
+14
+Montagne 8
+Plaine 1
+Foret 3
+Desert 5
+Jungle 7
+Cote 4
+Marais 6
+Colline 3.5
+Toundra 2
+Plateau 4.5
+Canyon 6.5
+Glacier 8.5
+Vallee 2.5
+Delta 3.8
